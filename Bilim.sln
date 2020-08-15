@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,22 @@ Global
 		SolutionGuid = {C3EAFC75-7536-4342-9143-00B39263B8E0}
 	EndGlobalSection
 EndGlobal
+=======
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilim", "Bilim.csproj", "{2AA34F0E-AC6A-4D29-90D4-194690AF18A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA34F0E-AC6A-4D29-90D4-194690AF18A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA34F0E-AC6A-4D29-90D4-194690AF18A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA34F0E-AC6A-4D29-90D4-194690AF18A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA34F0E-AC6A-4D29-90D4-194690AF18A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
+>>>>>>> 6d5b1d2... Начальный возврат модуля Bilim
