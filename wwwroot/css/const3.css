@@ -1,13 +1,12 @@
 
+
 :root {
-   --main-color: #222;
-   --white-color: #fdf5f5;
-   --brown-color: #4c3d36;
-   --grey-color: #968c88;
-   /* --pink-color: #f3e1e4; */
-   /* --pink-color: #f4e2e6; */
-   --pink-color: #fae2e5;
-   --red-color: #bb6054;
+    --main-color: #392d8a;
+    --white-color: #fff;
+    --brown-color: #8003a8;
+    --grey-color: #968c88;
+    --pink-color: #f6f7f8;
+    --red-color: #bb6054;
 }
 @font-face{
   font-family: MyOpenSans;
